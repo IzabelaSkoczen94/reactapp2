@@ -1,0 +1,22 @@
+.product a {
+    text-decoration: none;
+    color: #333;
+}
+
+.product a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+.product-box {
+    display: -ms-flexbox;
+    display: flex;
+    margin: 20px 20px 0 0;
+  }
+  
+  .product-box--image {
+    margin-right: 20px;
+  }
+
+  
+  
